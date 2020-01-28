@@ -1,0 +1,13 @@
+{
+  "name": "types",
+  "version": "0.0.1",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "config:editor": "yarn pnpify --sdk"
+  },
+  "dependencies": {
+    "@types/arangodb": "^3.5.3"
+  }
+}

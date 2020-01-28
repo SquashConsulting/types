@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["es6", "esnext.asynciterable"],
+    "typeRoots": ["./"],
+    "types": [],
+    "baseUrl": "./"
+  },
+  "files": ["index.d.ts"]
+}
